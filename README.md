@@ -1,6 +1,6 @@
 ```markdown
 # Automatic Plant Watering System for Arduino Nano
-
+##
 ## Introduction
 
 Welcome to the Automatic Plant Watering System for Arduino Nano project! This system provides an automated solution for watering plants using an Arduino Nano. The project is especially beneficial for individuals with plants at home who need a reliable watering system when away.
